@@ -30,6 +30,11 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 - google maps
     - traffic information and changes to route according to it
     - routes for different transportation types
+    
+    
+I want to create a travel app designed to help users plan and organize their trips more efficiently. The app would allow users to add destinations, routes, and travel times between locations. Using this information, users could create a detailed travel schedule.
+
+
 
 ## Notes
 
